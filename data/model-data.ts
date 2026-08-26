@@ -41,15 +41,15 @@ export const modelData: ModelData = {
   details: {
     age: "3 years", 
     dateOfBirth: "08-09-2022",
-    height: "3 feet",
-    weight: "20 kg",
-    Bust: "",
+    height: "43-45",
+    weight: "21 kg",
+    Bust: "10",
     skinTone: "Fair",
     hairColor: "Black",
-    eyeColor: "Brown",
-    ShoeSize: "",
-    Hips: "",
-    Waist: "",
+    eyeColor: "black",
+    ShoeSize: "11",
+    Hips: "23",
+    Waist: "23",
     location: "Jabalpur, MP, India",
   },
 
@@ -57,7 +57,7 @@ export const modelData: ModelData = {
   // Leave blank to hide them entirely.
   parents: {
     fatherName: "Mr. Yuvraj Singh Thakur",
-    motherName: "Miss. Mamta Singh Thakur",
+    motherName: "Miss. Mamta Thakur",
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
