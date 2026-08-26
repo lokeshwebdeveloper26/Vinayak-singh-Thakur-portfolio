@@ -61,7 +61,7 @@ export const modelData: ModelData = {
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
-  instagram: "",
+  instagram: "v.inayak_s",
 
   ecommerce: [
   /**{
@@ -238,6 +238,124 @@ export const modelData: ModelData = {
     },
     {
       src: "/portfolio/gallery-30.JPG",
+      alt: "model name lifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-31.JPG",
+      alt: "model name lifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-32.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-33.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-34.JPG",
+      alt: "model name campaign portrait",
+      category: "Campaign",
+    },
+    {
+      src: "/portfolio/gallery-35.JPG",
+      alt: "model name editorial portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-36.JPG",
+      alt: "model name commercial portfolio",
+      category: "Commercial",
+    },
+    {
+      src: "/portfolio/gallery-37.JPG",
+      alt: "model name lifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-38.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-39.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-40.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-41.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-42.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-43.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-44.JPG",
+      alt: "model name fashion look",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-45.JPG",
+      alt: "model name fashion portfolio",
+      category: "Fashion",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-46.JPG",
+      alt: "model name fashion portrait",
+      category: "Fashion",
+    },
+    {
+      src: "/portfolio/gallery-47.JPG",
+      alt: "model name studio portrait",
+      category: "Studio",
+    },
+    {
+      src: "/portfolio/gallery-48.JPG",
+      alt: "model name outdoor portrait",
+      category: "Outdoor",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-49.JPG",
+      alt: "model name commercial portfolio",
+      category: "Commercial",
+    },
+    {
+      src: "/portfolio/gallery-50.JPG",
+      alt: "model name lifestyle portrait",
+      category: "Casual",
+    },
+    {
+      src: "/portfolio/gallery-51.JPG",
+      alt: "model name outdoor portrait",
+      category: "Outdoor",
+      featured: true,
+    },
+    {
+      src: "/portfolio/gallery-52.JPG",
+      alt: "model name commercial portfolio",
+      category: "Commercial",
+    },
+    {
+      src: "/portfolio/gallery-53.JPG",
       alt: "model name lifestyle portrait",
       category: "Casual",
     },
