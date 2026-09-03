@@ -41,7 +41,7 @@ export const modelData: ModelData = {
   details: {
     age: "3 years", 
     dateOfBirth: "08-09-2022",
-    height: "43-45",
+    height: "43-45 ",
     weight: "21 kg",
     Bust: "10",
     skinTone: "Fair",
@@ -369,20 +369,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
+  {
     title: "model name Model Shoot",
-    category: "Fashion",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/Vinayak Singh Thakur (1).mp4",
     type: "mp4",
   },
   {
     title: "model name Model Shoot",
-    category: "Fashion",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/Vinayak Singh Thakur.mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
